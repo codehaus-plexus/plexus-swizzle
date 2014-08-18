@@ -13,6 +13,12 @@
   <name>Plexus Swizzle Component</name>
   <url>http://plexus.codehaus.org</url>
 
+  <scm>
+    <connection>scn:git:git@github.com:sonatype/plexus-swizzle.git</connection>
+    <developerConnection>scn:git:git@github.com:sonatype/plexus-swizzle.git</developerConnection>
+  </scm>
+
+
   <dependencies>
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
