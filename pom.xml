@@ -14,10 +14,15 @@
   <url>http://plexus.codehaus.org</url>
 
   <scm>
-    <connection>scm:git:git@github.com:sonatype/plexus-swizzle.git</connection>
-    <developerConnection>scm:git:git@github.com:sonatype/plexus-swizzle.git</developerConnection>
+    <connection>scm:git:git@github.com:codehaus-plexus/plexus-swizzle.git</connection>
+    <developerConnection>scm:git:git@github.com:codehaus-plexus/plexus-swizzle.git</developerConnection>
+    <url>http://github.com/codehaus-plexus/plexus-swizzle</url>
+    <tag>HEAD</tag>
   </scm>
-
+  <issueManagement>
+    <system>github</system>
+    <url>http://github.com/codehaus-plexus/plexus-swizzle/issues</url>
+  </issueManagement>
 
   <dependencies>
     <dependency>
