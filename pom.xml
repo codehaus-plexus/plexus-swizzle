@@ -14,8 +14,8 @@
   <url>http://plexus.codehaus.org</url>
 
   <scm>
-    <connection>scn:git:git@github.com:sonatype/plexus-swizzle.git</connection>
-    <developerConnection>scn:git:git@github.com:sonatype/plexus-swizzle.git</developerConnection>
+    <connection>scm:git:git@github.com:sonatype/plexus-swizzle.git</connection>
+    <developerConnection>scm:git:git@github.com:sonatype/plexus-swizzle.git</developerConnection>
   </scm>
 
 
